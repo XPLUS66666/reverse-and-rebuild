@@ -1,0 +1,5 @@
+name: "reverse_and_rebuild"
+title: "Understand then rebuild, clean room"
+description: "Merged leanrea and replica into one skill: understand a public app or shipped binary, then rebuild its core features as the user's own version, with a clean room evidence wall between understanding and building, through recon, plan, design, build, test, parity, rebrand, launch, and deploy."
+category: "Work and knowledge"
+include_in_prompt: true
